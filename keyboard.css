@@ -1,0 +1,74 @@
+ *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} 
+body{
+    background: grey;
+    font-style: italic;
+}
+/* p{
+    margin:10px 40px;
+    border:  solid;
+    margin: 1px;
+
+} */ 
+/* #grandparent{
+    margin:0 auto;
+} */
+/* ul{
+    list-style-type: none;
+    font-size: medium;
+}
+ul li{
+    background:white;
+    padding:20px;
+    display:block;
+    margin:10px;
+}
+span{
+    background:crimson;
+    padding:10px;
+    margin: 0px 0px 0px 1250px;
+    color:white;
+} */ 
+/* #time{
+    font: 1000px;
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
+/* #btn{
+    margin: 100px 200px;
+} */
+body{
+    background: red;
+}
+#input{
+    margin: 0 auto;
+    justify-content: center;
+    padding:15px;
+    display:block;
+}
+button{
+    margin:20 150px;
+    justify-content: center;
+    padding:5px;
+    
+}
+section article{
+    padding:20px;
+    border:solid black;
+    display:flex;
+    justify-content: center;
+    justify-items: center;
+    padding:20px;
+}
+#template{
+    margin:100px 50px;
+    color:black;
+    border: solid;
+    background: white;
+    padding:50px;
+}
